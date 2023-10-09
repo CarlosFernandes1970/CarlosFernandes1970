@@ -3,7 +3,12 @@
 - 🌱 I'm currently learning .Net MVC and MS-SQL.
 - 💞️ I'm looking to collaborate on Projects that involve Gamification in education or training.
 - 📫 ceaf.sp@gmail.com
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-e-a-fernandes/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/gallomosh/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/gallomosh/)
 
 <!---
 CarlosFernandes1970/CarlosFernandes1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
