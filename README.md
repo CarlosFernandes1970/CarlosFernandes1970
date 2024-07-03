@@ -1,7 +1,8 @@
-- 👋 Hello, my name is Carlos Fernandes. I am a 53-year-old veteran Systems Analyst. I started my career in the days of dial-up internet.
-- 👀 I'm interested in games, web and mobile systems for education of childrens and adults and also training for companies.
-- 🌱 I'm currently learning .Net MVC and MS-SQL.
-- 💞️ I'm looking to collaborate on Projects that involve Gamification in education or training.
+- 👋 Hello, my name is Carlos Fernandes. I am a 54-year-old veteran systems analyst with a lot of experience in the IT field. I started my career in the days of dial-up internet;
+- 👀 I have solid knowledge in analysis and development of applications and systems for the Internet and Intranet;
+- 🌱 I'm currently improving myself on the .Net platform with MVC, MS-SQL, Object Orientation and Artificial Intelligence;
+- 💞️ I also seek to collaborate on projects that involve Gamification in education or training for companies of all sizes and segments.
+
 - 📫 ceaf.sp@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-e-a-fernandes/)
