@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Carlos Fernandes. I am a 54-year-old veteran systems analyst with a lot of experience in the IT field. I started my career in the days of dial-up internet;
+- 👋 Hello, my name is Carlos Fernandes. I am a 55-year-old veteran systems analyst with a lot of experience in the IT field. I started my career in the days of dial-up internet;
 - 👀 I have solid knowledge in analysis and development of applications and systems for the Internet and Intranet;
 - 🌱 I'm currently improving myself on the .Net platform with MVC, MS-SQL, Object Orientation and Artificial Intelligence;
 - 💞️ I also seek to collaborate on projects that involve Gamification in education or training for companies of all sizes and segments.
